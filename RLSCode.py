@@ -1,9 +1,3 @@
-user = 'hidden'
-password = 'Zg5XZ!mm%PvA'
-#Dundas Credentials
-accountName = "hidden"
-dundaspassword = "hidden"
-
 
 
 import math
@@ -21,9 +15,9 @@ import pyspark
 import json
 import base64
 
-
+#Snowflake Credentials
 user = 'hidden'
-password = 'Zg5XZ!mm%PvA'
+password = 'hidden'
 #Dundas Credentials
 accountName = "hidden"
 dundaspassword = "hidden"
